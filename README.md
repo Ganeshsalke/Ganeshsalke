@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ganesh Salke</h1>
-<h3 align="center">A passionate frontend developer from India and also AIML</h3>
+<h3 align="center">A passionate frontend developer from India <br>
+    I LIKE TO LEARN MACHINE LEARNING</h3>
 
 - 🌱 I’m currently learning **java,javascript**
 
