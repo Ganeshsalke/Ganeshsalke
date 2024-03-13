@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ganesh Salke</h1>
-<h3 align="center">A passionate frontend developer from India <br>
-    I LIKE TO LEARN MACHINE LEARNING</h3>
+<h3 align="center">A passionate frontend developer And Data Analyst ML <br>
+    </h3>
 
-- 🌱 I’m currently learning **java,javascript**
+- 🌱 I’m currently learning **java Dsa, Python ML,Power Bi**
 
-- 💬 Ask me about **HTML5,CSS JAVA**
+- 💬 Ask me about **JAVA,ML,python,Data Visulization**
 
 - 📫 How to reach me **ganeshsalke02@gmail.com**
 
