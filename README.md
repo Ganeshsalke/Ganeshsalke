@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer And Data Analyst ML <br>
     </h3>
 
-- 🌱 I’m currently learning **java Dsa, Python ML,Power Bi**
+- 🌱 I’m currently learning **java Dsa, Python ML**
 
 - 💬 Ask me about **JAVA,ML,python,Data Visulization**
 
