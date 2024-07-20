@@ -1,5 +1,6 @@
+[![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-3.gif)](https://ibb.co/9g2qc1F)
 <!--<h1 align="center">Hi 👋, I'm Ganesh Salke</h1>
-<img align="left"  alt="coding" width="400" src="https://img.freepik.com/premium-photo/programmer-thinking-holding-pen-wit-bright-generative-ai_756405-14682.jpg">
+<img align="right" alt="Coding" width="400"  src="https://img.freepik.com/premium-photo/programmer-thinking-holding-pen-wit-bright-generative-ai_756405-14682.jpg">
 
 - 🌱 I’m currently learning **java Dsa, Python ML**
 
