@@ -1,6 +1,5 @@
 <!--<h1 align="center">Hi 👋, I'm Ganesh Salke</h1>
-<h3 align="center">A passionate frontend developer And Data Analyst ML <br>
-    </h3>
+<img align="left"  alt="coding" width="400" src="https://img.freepik.com/premium-photo/programmer-thinking-holding-pen-wit-bright-generative-ai_756405-14682.jpg">
 
 - 🌱 I’m currently learning **java Dsa, Python ML**
 
