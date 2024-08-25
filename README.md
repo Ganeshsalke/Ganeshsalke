@@ -21,7 +21,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshsalke&" alt="ganeshsalke" /></p>
 -->
 <h1 align="center">Hi 👋, I'm Ganesh Salke</h1>
-<h3 align="center">A Passionate Froentend Developer & Data Analyst.</h3>
+<h3 align="center">A Passionate Frontend Developer & Data Analyst.</h3>
 <img src="https://img.freepik.com/premium-photo/programmer-thinking-holding-pen-wit-bright-generative-ai_756405-14682.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshsalke&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshsalke" /> </p>
