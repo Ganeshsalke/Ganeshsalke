@@ -34,7 +34,7 @@
 
 - 🤝 I’m looking for help with **ML & Frontend Devloper**
 
-- 👨‍💻 All of my projects are available at [https://courageous-gumption-6ce2a9.netlify.app/](https://courageous-gumption-6ce2a9.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://courageous-gumption-6ce2a9.netlify.app/](https://66a8f7716252b82abe966920--golden-gecko-48b2cf.netlify.app/)
 
 - 💬 Ask me about **HTML5,CSS JAVA,Machine Learning**
 
